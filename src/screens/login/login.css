@@ -1,0 +1,30 @@
+.login-page {
+    height: 100vh;
+    background: linear-gradient(to right, rgba(12, 139, 223, 0.841), rgba(128, 0, 128, 0.891));
+    background-size: 200% 200%;
+}
+
+.button {
+    color: white;
+    background-color: rgb(0, 68, 255);
+    border: 1px solid rgb(238, 238, 241);
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    
+    /* Centrar el botón */
+    display: block; /* Convierte el botón en un bloque para que se pueda aplicar margin:auto */
+    margin: auto; /* Centra el botón horizontalmente */
+    
+    /* Agregar márgenes en todos los lados */
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  
+  .button:hover {
+    background-color: rgb(139, 0, 0);
+  }
+  
+  

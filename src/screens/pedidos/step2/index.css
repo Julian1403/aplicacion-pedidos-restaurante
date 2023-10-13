@@ -1,0 +1,12 @@
+/* CSS para el botón "+" cuando está activo (clic) */
+.btn btn-success:active {
+    background-color: #a7283d; /* Cambia este color al que desees para el resaltado */
+    border: 1px solid #31d0db; /* Cambia el borde si lo deseas */
+    /* Agrega otros estilos si lo deseas */
+  }
+  /* Estilo para el botón cuando está clicado */
+.clicked {
+    transform: scale(1.9); /* Aumenta el tamaño */
+    background-color: red; /* Cambia el color de fondo */
+  }
+  
