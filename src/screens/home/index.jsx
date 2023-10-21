@@ -18,7 +18,7 @@ return(
     <div>
       <h1>Bienvenido</h1>
       <div>
-      <button type="button" className="btn btn-primary" onClick={()=>navigate("/login")}>Iniciar Sesión</button>
+      <button type="button" className="btn btn-primary" onClick={()=>navigate("/aplicacion-pedidos-restaurante")}>Iniciar Sesión</button>
         
       </div>
       <div>
