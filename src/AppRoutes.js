@@ -13,7 +13,7 @@ import EditProductScreen from "./screens/productos/edit";
 
 const router=createBrowserRouter([
     {
-        path:'/',
+        path:'/aplicacion-pedidos-restaurante/',
         element:<LoginScreen/>
     },
     {
