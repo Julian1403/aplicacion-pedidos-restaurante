@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/aplicacion-pedidos-restaurante/static/css/main.f5dad48c.css",
-    "main.js": "/aplicacion-pedidos-restaurante/static/js/main.24057b3a.js",
+    "main.js": "/aplicacion-pedidos-restaurante/static/js/main.45cc0657.js",
     "static/js/787.47496fb0.chunk.js": "/aplicacion-pedidos-restaurante/static/js/787.47496fb0.chunk.js",
     "static/media/logo.svg": "/aplicacion-pedidos-restaurante/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/aplicacion-pedidos-restaurante/index.html",
     "main.f5dad48c.css.map": "/aplicacion-pedidos-restaurante/static/css/main.f5dad48c.css.map",
-    "main.24057b3a.js.map": "/aplicacion-pedidos-restaurante/static/js/main.24057b3a.js.map",
+    "main.45cc0657.js.map": "/aplicacion-pedidos-restaurante/static/js/main.45cc0657.js.map",
     "787.47496fb0.chunk.js.map": "/aplicacion-pedidos-restaurante/static/js/787.47496fb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5dad48c.css",
-    "static/js/main.24057b3a.js"
+    "static/js/main.45cc0657.js"
   ]
 }
